@@ -67,11 +67,11 @@ params:
     enabled: true
     title: "Dharmik Kantesaria" # optional default will be site title
     subtitle: "SOC Analyst I @ Novacoast Inc."
-    imageUrl: "/images/headshot.jpg" # optional
-    imageTitle: "Dharmik Kantesaria" # optional
-    imageWidth: 180 #custom size
-    imageHeight: 180 # custom size
-    linkFullImages: false
+    # imageUrl: "/images/headshot.jpg" # optional
+    # imageTitle: "Dharmik Kantesaria" # optional
+    # imageWidth: 180 #custom size
+    # imageHeight: 180 # custom size
+    # linkFullImages: false
   
 
   #  # home-info mode
