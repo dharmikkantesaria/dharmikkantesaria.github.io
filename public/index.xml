@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dharmik Kantesaria</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Dharmik Kantesaria</description>
+    <image>
+      <title>Dharmik Kantesaria</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 24 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NATAS Walkthrough</title>
+      <link>http://localhost:1313/blogs/natas_0_15/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/natas_0_15/</guid>
+      <description>A brief guide to solving NATAS Challenges on the OverTheWire platform. </description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h2&gt;
+&lt;h3 id=&#34;soc-analyst-i&#34;&gt;SOC Analyst I&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Novacoast Inc., Wichita, KS (Nov 2024 – Present)&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Monitor and analyze security events across multiple SIEM platforms, including Splunk Enterprise Security, IBM QRadar, CrowdStrike LogScale, and LogRhythm.&lt;/li&gt;
+&lt;li&gt;Execute threat hunting and incident response activities using Open-Source intelligence tools.&lt;/li&gt;
+&lt;li&gt;Investigate data loss prevention violations and implement preventive measures using Proofpoint and Forcepoint DLP.&lt;/li&gt;
+&lt;li&gt;Create detailed documentation for incident investigations and provide actionable security recommendations.&lt;/li&gt;
+&lt;li&gt;Collaborate with team members on case reviews, and also improve security operations workflow.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;network-protocols--security-tutor&#34;&gt;Network Protocols &amp;amp; Security Tutor&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;DePaul University, Chicago, IL (Apr 2024 - Jun 2024)&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Who am I?</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Dharmik Ashwin Kantesaria, a passionate cybersecurity professional based in the United States. With a Masters in Cybersecurity and a strong background in Computer Science, I thrive on tackling new challenges and experimenting with cutting-edge solutions. My expertise spans Network Security, Security Testing &amp;amp; Assessment, and Security Automation.&lt;/p&gt;
+&lt;h3 id=&#34;my-journey&#34;&gt;My Journey&lt;/h3&gt;
+&lt;p&gt;My cybersecurity journey began during my undergraduate studies in Computer Science. A pivotal moment came in my 4th semester when I attended an Ethical Hacking workshop at BITS, Hyderabad. This eye-opening experience introduced me to the fundamental concepts of computer networking and security, providing a glimpse into the world of real-world hacking and vulnerability exploitation.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
