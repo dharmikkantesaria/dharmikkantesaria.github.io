@@ -10,7 +10,7 @@ params:
 
 
 ## Work Experience
-### SOC Analyst I
+### Security Analyst I
 *Novacoast Inc., Wichita, KS (Nov 2024 – Present)*
 -	Monitor and analyze security events across multiple SIEM platforms, including Splunk Enterprise Security, IBM QRadar, CrowdStrike LogScale, and LogRhythm.
 -   Execute threat hunting and incident response activities using Open-Source intelligence tools.
