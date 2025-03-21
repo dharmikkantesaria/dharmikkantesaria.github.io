@@ -31,7 +31,7 @@ cover:
     hidden: true # only hide on current single page
 
 ---
-_Note: The python script to scrap the password for these challenges. Due to academic policies, it is not available publicly as it writing this script was part of my academics during my masters._
+_Note: The python script to scrap the password for these challenges was an assignment during my graduate studies. Due to academic policies, it is not available publicly. I am happy to share my work privately - reach out to me via LinkedIn._
 
 Have fun learning web-security :)
 
